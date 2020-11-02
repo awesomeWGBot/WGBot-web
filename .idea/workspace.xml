@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed3b69b5-fd98-4128-9889-f8432d228981" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="8yyym7rl" />
+  </component>
+  <component name="ProjectId" id="1jSe4oOfzMXe1tZXGh1PHtK6KhM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed3b69b5-fd98-4128-9889-f8432d228981" name="Default Changelist" comment="" />
+      <created>1603801732923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603801732923</updated>
+      <workItem from="1603801734373" duration="16062000" />
+      <workItem from="1603907207385" duration="20222000" />
+      <workItem from="1604080262163" duration="4270000" />
+      <workItem from="1604323244901" duration="839000" />
+      <workItem from="1604345842477" duration="70000" />
+      <workItem from="1604345929706" duration="1531000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603811839385">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="2334" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.1040@0.0.3840.1040" timestamp="1603811839385" />
+    <state x="2649" y="353" width="463" height="497" key="#com.intellij.tools.ToolEditorDialog" timestamp="1603811837144">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="2649" y="353" width="463" height="497" key="#com.intellij.tools.ToolEditorDialog/0.0.3840.1040@0.0.3840.1040" timestamp="1603811837144" />
+    <state width="1874" height="281" key="GridCell.Tab.0.bottom" timestamp="1603901340477">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state width="1874" height="281" key="GridCell.Tab.0.bottom/0.0.3840.1040@0.0.3840.1040" timestamp="1603901340477" />
+    <state width="1874" height="281" key="GridCell.Tab.0.center" timestamp="1603901340477">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state width="1874" height="281" key="GridCell.Tab.0.center/0.0.3840.1040@0.0.3840.1040" timestamp="1603901340477" />
+    <state width="1874" height="281" key="GridCell.Tab.0.left" timestamp="1603901340477">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state width="1874" height="281" key="GridCell.Tab.0.left/0.0.3840.1040@0.0.3840.1040" timestamp="1603901340477" />
+    <state width="1874" height="281" key="GridCell.Tab.0.right" timestamp="1603901340477">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state width="1874" height="281" key="GridCell.Tab.0.right/0.0.3840.1040@0.0.3840.1040" timestamp="1603901340477" />
+    <state x="2775" y="258" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1603811838465">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="2775" y="258" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.3840.1040@0.0.3840.1040" timestamp="1603811838465" />
+    <state x="2587" y="123" width="585" height="801" key="find.popup" timestamp="1603898643332">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="2587" y="123" width="585" height="801" key="find.popup/0.0.3840.1040@0.0.3840.1040" timestamp="1603898643332" />
+    <state x="2536" y="244" key="run.anything.popup" timestamp="1603912274073">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="2536" y="244" key="run.anything.popup/0.0.3840.1040@0.0.3840.1040" timestamp="1603912274073" />
+    <state x="2543" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1604096089402">
+      <screen x="0" y="0" width="3840" height="1040" />
+    </state>
+    <state x="2543" y="230" width="672" height="678" key="search.everywhere.popup/0.0.3840.1040@0.0.3840.1040" timestamp="1604096089402" />
+  </component>
+</project>
